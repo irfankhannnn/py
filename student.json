@@ -1,0 +1,31 @@
+{
+    "Name": "Irfan",
+    "Mobile": [
+        {
+            "name": "OnePlus",
+            "Processor": "Snapdragon",
+            "Camera": "32 Megapixel",
+            "Dalla": 543
+        },
+        {
+            "name": "Dalla",
+            "Dalla": 543
+        }
+    ],
+    "Ebarat": {
+        "name": "Shoeb Dalal",
+        "age": 99,
+        "add": "UP",
+        "State": "Maharashtra",
+        "Phone": "123456789"
+    },
+    "new_key": [
+        {
+            "new_value": "None",
+            "age": 22
+        },
+        {
+            "naam": "Dalla"
+        }
+    ]
+}
